@@ -12,4 +12,3 @@ The option to search comments for more unique phrases or statments might a nice 
 
 
 <img width="1904" alt="Site_Image" src="https://user-images.githubusercontent.com/83256206/137179157-7968266a-9556-489a-a491-d2cd7cf723bd.png">
-
